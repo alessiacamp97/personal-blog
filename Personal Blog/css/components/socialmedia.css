@@ -1,0 +1,36 @@
+/*General rules for the list-line*/
+.list-inline {
+list-style: none;
+padding-left: 10px;
+}
+
+.list-inline li {
+display: inline;
+padding: 0px;
+}
+
+.list-inline i {
+font-size: 50px;
+padding-right: 30px;
+color: rgb(204, 102, 102);
+}
+
+.list-inline i:hover {
+font-size: 55px;
+color: black;
+}
+/*General rules for the media*/
+@media (max-width: 760px){
+
+	.container{
+		width: 600px;
+	}
+}
+
+
+@media (max-width: 500px){
+
+	.container{
+		width: 400px;
+	}
+}

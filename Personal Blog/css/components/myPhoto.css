@@ -1,0 +1,6 @@
+/*General rules for the photo*/
+#myPhoto {
+width: 230px;
+height: 230px;
+border-radius: 80%
+}

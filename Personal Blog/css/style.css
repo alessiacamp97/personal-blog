@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css?family=Playfair Display|Lora");
+
+/*Importing all components file*/
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/photo.css");
+@import url("components/socialmedia.css");
+
+
+/*General rules for the body*/
+body {
+font-family: "Playfair Display", serif;
+font-size: 15px; 
+margin: 0px;
+}
+
+/*General rules for the font*/
+h1, h2, h3 {
+font-family: 'Lora', sans-serif; 
+font-weight: bold;
+}
+a {
+    text-decoration: none;
+} 
+
+ /*General rules for the description*/
+#description {
+margin-top: 60px;
+margin-bottom: 60px;
+} 
+
+/*General rules for the text*/
+p {
+display: block;
+margin-block-start: 3em;
+margin-block-end: 3em;
+margin-inline-start: 20px;
+margin-inline-end: 20px;
+text-align: center; 
+}
+
+h2 {
+display: block;
+margin-block-start: 3em;
+margin-block-end: 3em;
+margin-inline-start: 20px;
+margin-inline-end: 20px;
+text-align: center; 
+}
+ 

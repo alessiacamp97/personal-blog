@@ -1,0 +1,15 @@
+/*General rules for the button*/
+.btn-red{
+background-color: rgb(204, 102, 102);
+color: black;
+padding: 15px 20px;
+border-radius: 4px;
+font-weight: bold;
+font-family: 'Playfair Display', sans-serif; 
+}
+
+/*General rules for the button's animation*/
+#animate {
+-webkit-transition: all 2s ease-out;
+transition: all 2s ease-out;
+}

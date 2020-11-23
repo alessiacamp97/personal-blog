@@ -1,0 +1,8 @@
+/*General rules for the avatar*/
+.avatar {
+width: 215px;
+height: 215px;
+border-radius: 80%;
+margin-top: 1px;
+margin-bottom: 30px; 
+}
